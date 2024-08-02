@@ -1,0 +1,15 @@
+{
+    "name": "Tea Shop",
+    "short_name": "TeaShop",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Order your favorite tea from our shop.",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
