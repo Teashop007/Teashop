@@ -1,0 +1,7 @@
+tea-shop/
+├── index.html
+├── app.js
+├── style.css
+├── manifest.json
+├── service-worker.js
+└── products.json
