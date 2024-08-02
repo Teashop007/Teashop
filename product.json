@@ -1,0 +1,17 @@
+[
+    {
+        "id": "black",
+        "name": "Black Tea",
+        "price": 1.99
+    },
+    {
+        "id": "green",
+        "name": "Green Tea",
+        "price": 2.49
+    },
+    {
+        "id": "herbal",
+        "name": "Herbal Tea",
+        "price": 2.99
+    }
+]
