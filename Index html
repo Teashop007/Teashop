@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <title>Tea Shop</title>
+</head>
+<body>
+    <h1>Welcome to Our Tea Shop</h1>
+    <div id="productList"></div>
+    <h2>Your Cart</h2>
+    <div id="cart"></div>
+    <button id="checkoutButton">Checkout</button>
+    <div id="orderStatus"></div>
+    <div id="upiContainer" style="display:none;">
+        <h3>Scan this QR code to pay:</h3>
+        <div id="qrcode"></div>
+    </div>
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
